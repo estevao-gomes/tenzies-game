@@ -8,6 +8,7 @@ The tech stack used on this project includes:
 <ul>
   <li>React.JS</li>
   <li>React-Create-App</li>
+  <li>Bootstrap</li>
 </ul>
 
 
